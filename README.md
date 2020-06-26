@@ -14,4 +14,5 @@
 3. Run `composer install`
 4. Run `npx webpack -w`
 5. Activate plugin
-6. Add the block to a page or post
+6. Sync ACF fields
+7. Add the block to a page or post
